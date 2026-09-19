@@ -20,7 +20,7 @@ The main objectives of this dashboard are to:
 
 ## 📊 Dashboard Preview
 
-Images/sales-analytics-dashboard.png
+<img width="673" height="377" alt="Screenshot 2026-09-03 161231" src="https://github.com/user-attachments/assets/6fb36349-d481-44b2-b150-b7f2a9fe15b8" />
 
 ## 📈 Key Performance Indicators
 
