@@ -6,6 +6,8 @@ This project presents an interactive **Power BI Sales Analytics Dashboard** desi
 
 The dashboard combines traditional sales analysis with Power BI's AI-powered analytical capabilities to help explore regional performance, product categories, customer segments, sales patterns, and the factors influencing overall sales.
 
+---
+
 ## 🎯 Project Objectives
 
 The main objectives of this dashboard are to:
@@ -18,9 +20,13 @@ The main objectives of this dashboard are to:
 - Explore sales performance using interactive AI visuals
 - Provide clear insights to support data-driven decision-making
 
+---
+
 ## 📊 Dashboard Preview
 
 <img width="673" height="377" alt="Screenshot 2026-09-03 161231" src="https://github.com/user-attachments/assets/6fb36349-d481-44b2-b150-b7f2a9fe15b8" />
+
+---
 
 ## 📈 Key Performance Indicators
 
@@ -30,6 +36,8 @@ The dashboard highlights the following KPIs:
 - **Average Sale:** 583.11
 - **Highest Sale:** 3K
 - **Total Transactions:** 350
+
+---
 
 ## 🔍 Dashboard Features
 
@@ -56,6 +64,8 @@ The category analysis compares sales across:
 - Food
 
 Electronics is the leading category based on the dashboard results.
+
+---
 
 ## 🤖 AI-Powered Analysis
 
@@ -104,8 +114,5 @@ Based on the dashboard:
 
 This project demonstrates the application of **Business Intelligence, data visualization, and AI-assisted analytics in Power BI** to transform sales data into meaningful and actionable business insights.
 
-👤 Author
+## 👤 Author
 Rafijul Islam
-
-Power BI & Data Analytics Enthusiast
-Focused on developing interactive dashboards, business intelligence solutions, and AI-powered data analytics projects.
